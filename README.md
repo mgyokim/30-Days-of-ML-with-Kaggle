@@ -201,7 +201,7 @@ Data analysis can be largely divided into five processes.
 
 Let's analyze Kaggle's Titanic dataset!
 
-데이터 분석은 5가지로 과정으로 나눌 수 있다.
+데이터 분석은 5가지로 과정으로 나눌 수 있습니다.
 
 1. 데이터셋 확인
 2. 탐색적 데이터 분석
@@ -209,7 +209,7 @@ Let's analyze Kaggle's Titanic dataset!
 4. 모델 개발
 5. 머신러닝 예측
 
-캐글의 타이타닉 데이터셋을 분석해 보자!
+캐글의 타이타닉 데이터셋을 분석해봅시다!
 
 #
 ![image](https://user-images.githubusercontent.com/66030601/132127848-c66ea587-e33c-4770-bc80-ae07caf91901.png)
