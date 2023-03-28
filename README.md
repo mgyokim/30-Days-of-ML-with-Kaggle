@@ -2,7 +2,7 @@
 
 ### Introduction [English 🇺🇸]
 " 30 Days of ML with Kaggle" Repository presents a Machine Learning Study Guide using the Kaggle Platform.
-This course is based on a tutorial provided by Kaggle.I wrote a description of each kernel on [my personal development blog](https://mgyo.tistory.com/category/%F0%9F%8C%8FKaggle%20and%20DACON%F0%9F%8C%8F/Kaggle%2030%20Days%20of%20ML%20%20%EA%B3%BC%EC%A0%95). You can access it for free.
+This course is based on a tutorial provided by Kaggle.I wrote a description of each kernel on [my personal development blog](https://mgyo.tistory.com/). You can access it for free.
 I hope this study course will help beginners study machine learning.
 This repository is continuously being updated.
 
@@ -15,7 +15,7 @@ Contributor - MINGYO KIM
 
 ### Introduction [Korean 🇰🇷]
 "캐글과 함께하는 30일 머신러닝 스터디" Repository는 Kaggle 플랫폼을 이용한 머신러닝 학습 가이드를 제공합니다. 
-본 코스는 Kaggle에서 제공하는 튜토리얼을 기반으로 합니다. [개인 개발 블로그](https://mgyo.tistory.com/category/%F0%9F%8C%8FKaggle%20and%20DACON%F0%9F%8C%8F/Kaggle%2030%20Days%20of%20ML%20%20%EA%B3%BC%EC%A0%95)에 각 커널에 대한 설명을 작성했습니다.
+본 코스는 Kaggle에서 제공하는 튜토리얼을 기반으로 합니다. [개인 개발 블로그](https://mgyo.tistory.com/) 에 각 커널에 대한 설명을 작성했습니다.
 이 학습과정이 초보자들의 머신러닝 스터디에 도움이 되길 바랍니다. 해당 레포지토리는 지속적으로 업데이트 되고 있습니다.
 
 최근 업데이트일 - [2021.09.06]
